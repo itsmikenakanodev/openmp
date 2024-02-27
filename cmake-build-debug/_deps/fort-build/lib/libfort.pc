@@ -1,0 +1,10 @@
+prefix=C:/Program Files (x86)/openmp
+exec_prefix=C:/Program Files (x86)/openmp
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: libfort
+Description: A simple C/C++ crossplatform library to create formatted text tables.
+Version: 0.4.2
+Cflags: -I${includedir}
+Libs: -L${libdir} -lfort

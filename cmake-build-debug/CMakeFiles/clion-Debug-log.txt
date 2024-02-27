@@ -1,0 +1,37 @@
+"D:\Jetbrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Jetbrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\Programacion Paralela\openmp" -B "D:\Programacion Paralela\openmp\cmake-build-debug"
+-- Version: 10.1.0
+-- Build type: Debug
+-- libfort build options:  wchar support = ON;  build type = common
+CMake Warning (dev) at cmake-build-debug/_deps/fort-src/CMakeLists.txt:48 (if):
+  Policy CMP0054 is not set: Only interpret if() arguments as variables or
+  keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+  details.  Use the cmake_policy command to set the policy and suppress this
+  warning.
+
+  Quoted variables like "MSVC" will no longer be dereferenced when the policy
+  is set to NEW.  Since the policy is not set the OLD behavior will be used.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at cmake-build-debug/_deps/fort-src/CMakeLists.txt:79 (if):
+  Policy CMP0054 is not set: Only interpret if() arguments as variables or
+  keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+  details.  Use the cmake_policy command to set the policy and suppress this
+  warning.
+
+  Quoted variables like "MSVC" will no longer be dereferenced when the policy
+  is set to NEW.  Since the policy is not set the OLD behavior will be used.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at cmake-build-debug/_deps/fort-src/CMakeLists.txt:117 (if):
+  Policy CMP0054 is not set: Only interpret if() arguments as variables or
+  keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+  details.  Use the cmake_policy command to set the policy and suppress this
+  warning.
+
+  Quoted variables like "MSVC" will no longer be dereferenced when the policy
+  is set to NEW.  Since the policy is not set the OLD behavior will be used.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (5.5s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/Programacion Paralela/openmp/cmake-build-debug

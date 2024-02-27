@@ -1,0 +1,12 @@
+# ninja log v5
+3	1010	7243103271964211	CMakeFiles/main.dir/main.cpp.obj	14c99e4bfba638a5
+4733	7554	7243005710454071	_deps/fmt-build/libfmtd.a	453015d9320040f2
+10	3602	7243005670912784	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	2ce93ce854c50be6
+18	4732	7243005682182044	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	319fa7c6d8485b2c
+1010	1364	7243103275455822	main.exe	bdf44529b8d003b7
+1352	1694	7261168913752424	pi.exe	43e9c43d449944f6
+4	1351	7261168910393951	CMakeFiles/pi.dir/pi.cpp.obj	513dc6592fee101c
+3	1955	7261263781382023	CMakeFiles/reduccion.dir/reduccion.cpp.obj	da6a7c08854ba62c
+1955	2555	7261263787327674	reduccion.exe	df0eb4827486d7af
+4	1743	7267717681329377	CMakeFiles/tareagrupo01.dir/tareagrupo01.cpp.obj	aef34f9ec36ef96e
+1743	2115	7267717684975665	tareagrupo01.exe	6058178d72a2dbf

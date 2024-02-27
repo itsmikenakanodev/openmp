@@ -1,0 +1,434 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						23,
+						24,
+						25,
+						26,
+						27
+					]
+				},
+				{
+					"build" : "_deps/fmt-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.fmt-build-Debug-3610bd7ca2718cd156be.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cmake-build-debug/_deps/fmt-src",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "_deps/fort-build",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.fort-build-Debug-2917c00ef408c611cffa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "cmake-build-debug/_deps/fort-src",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "_deps/fort-build/lib",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.fort-build.lib-Debug-a6297f475ed4fd73486d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "cmake-build-debug/_deps/fort-src/lib",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "_deps/fort-build/src",
+					"jsonFile" : "directory-_deps.fort-build.src-Debug-0cd575b99f42da9d24ff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "cmake-build-debug/_deps/fort-src/src",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "_deps/fort-build/tests",
+					"jsonFile" : "directory-_deps.fort-build.tests-Debug-b7e727b563b4b4fde346.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "cmake-build-debug/_deps/fort-src/tests",
+					"targetIndexes" : 
+					[
+						20,
+						21,
+						22
+					]
+				},
+				{
+					"build" : "_deps/fort-build/examples",
+					"jsonFile" : "directory-_deps.fort-build.examples-Debug-f9e68d020488ef32d5aa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "cmake-build-debug/_deps/fort-src/examples",
+					"targetIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "openmp",
+					"targetIndexes" : 
+					[
+						0,
+						23,
+						24,
+						25,
+						26,
+						27
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "FMT",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "libfort",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "calculo_pi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculo_pi-Debug-489151c604038fa004b5.json",
+					"name" : "calculo_pi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fmt::@976f4f0bee90b99ecdb6",
+					"jsonFile" : "target-fmt-Debug-7bd3baf27e66e79b92d6.json",
+					"name" : "fmt",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "fort::@cbd94da06ea184ba4caf",
+					"jsonFile" : "target-fort-Debug-26f0de901d4a32e85142.json",
+					"name" : "fort",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "fort_dev::@ed25a7367e1103693a14",
+					"jsonFile" : "target-fort_dev-Debug-104eccd1c39adb71f6c6.json",
+					"name" : "fort_dev",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "headers::@20eef637f2e439e00634",
+					"jsonFile" : "target-headers-Debug-4bf4b265380579f85f03.json",
+					"name" : "headers",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_beautiful_table::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_beautiful_table-Debug-d8baec49fcdb96eed428.json",
+					"name" : "libfort_beautiful_table",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_beautiful_table_cpp::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_beautiful_table_cpp-Debug-4021424d3c681040d378.json",
+					"name" : "libfort_beautiful_table_cpp",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_complex_layout::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_complex_layout-Debug-98f5372d3219956271a6.json",
+					"name" : "libfort_complex_layout",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_complex_layout_cpp::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_complex_layout_cpp-Debug-8d65c75048ab01ad6856.json",
+					"name" : "libfort_complex_layout_cpp",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_custom_border_style::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_custom_border_style-Debug-1255c205306095a9aab3.json",
+					"name" : "libfort_custom_border_style",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_custom_table::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_custom_table-Debug-fcae11c06e234462791a.json",
+					"name" : "libfort_custom_table",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_custom_table_cpp::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_custom_table_cpp-Debug-549004ed8567b24b0f0f.json",
+					"name" : "libfort_custom_table_cpp",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_fill_table::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_fill_table-Debug-aa6b0acea61b62da9fe6.json",
+					"name" : "libfort_fill_table",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_fill_table_cpp::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_fill_table_cpp-Debug-4ba14cb8f35323c8295c.json",
+					"name" : "libfort_fill_table_cpp",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_math_table::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_math_table-Debug-3de85ca13490790e2ccf.json",
+					"name" : "libfort_math_table",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_non_ascii_table::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_non_ascii_table-Debug-f4bcbb6ba7614c01f2f1.json",
+					"name" : "libfort_non_ascii_table",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_non_ascii_table_cpp::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_non_ascii_table_cpp-Debug-c2ebccf416c03a2fab90.json",
+					"name" : "libfort_non_ascii_table_cpp",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_print_styles::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_print_styles-Debug-8e6c6a7b4cd6563122ac.json",
+					"name" : "libfort_print_styles",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_simple_table::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_simple_table-Debug-80d04bf8aa073ce44be3.json",
+					"name" : "libfort_simple_table",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "libfort_simple_table_cpp::@dd2e700fd60e82f1dc75",
+					"jsonFile" : "target-libfort_simple_table_cpp-Debug-586b20cdc67befe5808b.json",
+					"name" : "libfort_simple_table_cpp",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "libfort_test::@5d5807191c57011704f9",
+					"jsonFile" : "target-libfort_test-Debug-8c7cd02dcbca4a2b88fd.json",
+					"name" : "libfort_test",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "libfort_test_cpp::@5d5807191c57011704f9",
+					"jsonFile" : "target-libfort_test_cpp-Debug-b15f3ffb37dd44cc6d64.json",
+					"name" : "libfort_test_cpp",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "libfort_test_dev::@5d5807191c57011704f9",
+					"jsonFile" : "target-libfort_test_dev-Debug-0e4c75198e23c7556b7d.json",
+					"name" : "libfort_test_dev",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-c44866a9a1140f5fde7e.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pi-Debug-f235450e196f3837e9ac.json",
+					"name" : "pi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduccion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduccion-Debug-8c1ae700031251e2e16d.json",
+					"name" : "reduccion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduccion2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduccion2-Debug-8ab0f35edca4bd630c58.json",
+					"name" : "reduccion2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tareagrupo01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tareagrupo01-Debug-4ce17105f1f9b2d26101.json",
+					"name" : "tareagrupo01",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programacion Paralela/openmp/cmake-build-debug",
+		"source" : "D:/Programacion Paralela/openmp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

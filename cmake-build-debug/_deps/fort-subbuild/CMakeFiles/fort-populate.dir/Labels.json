@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fort-subbuild/CMakeFiles/fort-populate"
+		},
+		{
+			"file" : "D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fort-subbuild/CMakeFiles/fort-populate.rule"
+		},
+		{
+			"file" : "D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fort-subbuild/CMakeFiles/fort-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fort-subbuild/fort-populate-prefix/src/fort-populate-stamp/fort-populate-build.rule"
+		},
+		{
+			"file" : "D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fort-subbuild/fort-populate-prefix/src/fort-populate-stamp/fort-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fort-subbuild/fort-populate-prefix/src/fort-populate-stamp/fort-populate-download.rule"
+		},
+		{
+			"file" : "D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fort-subbuild/fort-populate-prefix/src/fort-populate-stamp/fort-populate-install.rule"
+		},
+		{
+			"file" : "D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fort-subbuild/fort-populate-prefix/src/fort-populate-stamp/fort-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fort-subbuild/fort-populate-prefix/src/fort-populate-stamp/fort-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fort-subbuild/fort-populate-prefix/src/fort-populate-stamp/fort-populate-test.rule"
+		},
+		{
+			"file" : "D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fort-subbuild/fort-populate-prefix/src/fort-populate-stamp/fort-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"fort-populate"
+		],
+		"name" : "fort-populate"
+	}
+}

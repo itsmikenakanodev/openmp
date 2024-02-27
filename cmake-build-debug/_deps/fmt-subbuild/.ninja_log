@@ -1,0 +1,37 @@
+# ninja log v5
+0	93	7242997355531231	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	4ab878824614a44c
+1	145	0	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	9690a78c1ac30a35
+0	93	7242997355531231	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	4ab878824614a44c
+389	451	7307021650714887	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	36b2a82a48991ce3
+93	192780	7242999282409344	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	5ce377f7108dfbae
+1	145	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	9690a78c1ac30a35
+146	203	7307021648237542	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	c3124d0010e0a4f4
+146	203	7307021648237542	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	c3124d0010e0a4f4
+93	192780	7242999282409344	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	5ce377f7108dfbae
+389	451	7307021650714887	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	36b2a82a48991ce3
+203	261	7307021648816369	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	79f65b9dc13f7664
+203	261	7307021648816369	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	79f65b9dc13f7664
+261	322	7307021649417609	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	f255692f274b9ed
+261	322	7307021649417609	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	f255692f274b9ed
+323	388	7307021650078510	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	bcf515159d0b0051
+323	388	7307021650078510	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	bcf515159d0b0051
+452	542	7307021651616520	CMakeFiles/fmt-populate-complete	3a68bdff56171eb0
+452	542	7307021651616520	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	3a68bdff56171eb0
+452	542	7307021651616520	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	3a68bdff56171eb0
+452	542	7307021651616520	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	3a68bdff56171eb0
+1	163	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	9690a78c1ac30a35
+1	163	0	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	9690a78c1ac30a35
+163	224	7307022955287397	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	c3124d0010e0a4f4
+163	224	7307022955287397	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	c3124d0010e0a4f4
+224	416	7307022957183145	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	79f65b9dc13f7664
+224	416	7307022957183145	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	79f65b9dc13f7664
+417	487	7307022957906388	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	f255692f274b9ed
+417	487	7307022957906388	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	f255692f274b9ed
+487	590	7307022958947457	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	bcf515159d0b0051
+487	590	7307022958947457	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	bcf515159d0b0051
+590	651	7307022959554393	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	36b2a82a48991ce3
+590	651	7307022959554393	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	36b2a82a48991ce3
+651	731	7307022960356656	CMakeFiles/fmt-populate-complete	3a68bdff56171eb0
+651	731	7307022960356656	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	3a68bdff56171eb0
+651	731	7307022960356656	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	3a68bdff56171eb0
+651	731	7307022960356656	D:/Programacion Paralela/openmp/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	3a68bdff56171eb0
